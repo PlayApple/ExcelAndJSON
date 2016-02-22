@@ -41,7 +41,7 @@ JSON，是手机游戏开发中，最常用的数据交换格式。它的树形�
 
 -   Python 2.7
 
--   xlrd
+-   xlrd #sudo pip install xlrd
 
 
 
